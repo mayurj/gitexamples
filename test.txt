@@ -1,0 +1,21 @@
+git config --global user.name "First_Name Last_Name"
+
+git config --global user.email "UserEmail@domain.com"
+
+mkdir git_Practice
+
+cd git_Practice
+
+clear
+
+ls -all
+
+cd .git/
+
+fork
+pull request
+
+Github, bitbucket,
+
+
+
